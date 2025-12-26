@@ -14,7 +14,8 @@ Il inclut la gestion de DNS, création de domaine fonctionnel et gestion des uti
 **Objectif :** Comprendre et maîtriser le déploiement d’un domaine Active Directory pour un environnement Windows Server.
 
  # [AD DS Diagram]
- <img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/0fd53692-08af-440c-a729-57cede631a48" />
+ <img width="3187" height="1496" alt="Active-directory-federation-services-microsoft-off-5b1e5b080fff82 7771912715287160400655" src="https://github.com/user-attachments/assets/196d079f-01ec-4331-99b2-04f62f5a99b5" />
+
 
 
 ---
@@ -25,7 +26,8 @@ Il inclut la gestion de DNS, création de domaine fonctionnel et gestion des uti
 - 🔑 Domaine `lab.local` opérationnel  
 - 👥 Gestion des utilisateurs et groupes prête  
 - 🛠️ Environnement prêt pour intégrer des clients Windows
-![images](https://github.com/user-attachments/assets/58d0036c-d6ee-4680-aeda-7d967cba72f4)
+<img width="720" height="518" alt="qu-est-ce-que-windows-server-720x518" src="https://github.com/user-attachments/assets/daf8688c-21bf-40e5-9bd2-18c7d6253fe5" />
+
 
 ---
 
