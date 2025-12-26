@@ -1,32 +1,50 @@
+# 🏢 Active Directory Study – Windows Server 2022
 
-<img width="3187" height="1496" alt="Active-directory-federation-services-microsoft-off-5b1e5b080fff82 7771912715287160400655" src="https://github.com/user-attachments/assets/7e3950bf-7d06-4ca0-8c9f-22641edc3fc8" />
+![Windows Server](https://img.shields.io/badge/OS-Windows%20Server%202022-blue)
+![Skills](https://img.shields.io/badge/Skills-SysAdmin%20%7C%20ADDS-yellow)
+![Status](https://img.shields.io/badge/Status-Study%20Project-green)
 
-# 🏢 AD DS sur Windows Server 2022
+---
 
-## 📄 Description
-Projet démontrant l’installation et la configuration de **Active Directory Domain Services (AD DS)** sur une VM Windows Server 2022, avec DNS intégré et domaine fonctionnel.
+## 🔍 Project Overview
+Ce projet démontre l’installation et la configuration complète de **Active Directory Domain Services (AD DS)** sur une VM Windows Server 2022.  
+Il inclut la gestion de DNS, création de domaine fonctionnel et gestion des utilisateurs/groupes.
 
-## ✨ Fonctionnalités
-- 🏷️ Active Directory Domain Services installé
-- 🌐 DNS configuré pour résolution interne
-- 🔑 Domaine `lab.local` créé et opérationnel
-- 👥 Gestion des utilisateurs et groupes
-- 🛠️ Prêt pour intégrer des clients Windows
+**Objectif :** Comprendre et maîtriser le déploiement d’un domaine Active Directory pour un environnement Windows Server.
 
-## 📌 Prérequis
-- 💻 VirtualBox ou VMware
-- 🗂️ ISO Windows Server 2022
+![AD DS Diagram](./assets/Active-directory-federation-services-microsoft-off-5b1e5b080fff82.png)
 
-## 🚀 Installation
-1. 🖥️ Installer Windows Server 2022
-2. 🌐 Configurer IP statique et DNS
-3. 🏷️ Ajouter le rôle **AD DS**
-4. 🌐 Ajouter le rôle **DNS**
-5. 🔑 Promouvoir le serveur en contrôleur de domaine
-6. 👥 Créer utilisateurs et groupes
-7. ✅ Tester la connectivité
+---
 
+## ✨ Highlights
+- 🏷️ AD DS installé et fonctionnel  
+- 🌐 DNS interne configuré  
+- 🔑 Domaine `lab.local` opérationnel  
+- 👥 Gestion des utilisateurs et groupes prête  
+- 🛠️ Environnement prêt pour intégrer des clients Windows
 
+---
 
-## 🖊️ Auteur
-Brandon Bienvenu
+## 🛠️ Requirements / Prérequis
+- 💻 VirtualBox ou VMware  
+- 🗂️ ISO Windows Server 2022  
+- ⚡ Machine avec minimum 4 GB RAM (8 GB recommandé)
+
+---
+
+## 🚀 Installation rapide
+
+1. 🖥️ Installer Windows Server 2022 sur une VM  
+2. 🌐 Configurer IP statique et DNS  
+3. 🏷️ Ajouter le rôle **Active Directory Domain Services (AD DS)**  
+4. 🌐 Ajouter le rôle **DNS**  
+5. 🔑 Promouvoir le serveur en contrôleur de domaine (`lab.local`)  
+6. 👥 Créer utilisateurs et groupes selon le plan du labo  
+7. ✅ Tester la connectivité et authentification des clients  
+
+> Les captures d’écran et diagrammes sont inclus dans le dossier `assets/` pour référence rapide.
+
+---
+
+## 📂 Structure du projet
+
