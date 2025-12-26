@@ -10,9 +10,12 @@
 Ce projet démontre l’installation et la configuration complète de **Active Directory Domain Services (AD DS)** sur une VM Windows Server 2022.  
 Il inclut la gestion de DNS, création de domaine fonctionnel et gestion des utilisateurs/groupes.
 
+
 **Objectif :** Comprendre et maîtriser le déploiement d’un domaine Active Directory pour un environnement Windows Server.
 
-![AD DS Diagram](./assets/Active-directory-federation-services-microsoft-off-5b1e5b080fff82.png)
+ # [AD DS Diagram]
+ <img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/0fd53692-08af-440c-a729-57cede631a48" />
+
 
 ---
 
@@ -22,6 +25,7 @@ Il inclut la gestion de DNS, création de domaine fonctionnel et gestion des uti
 - 🔑 Domaine `lab.local` opérationnel  
 - 👥 Gestion des utilisateurs et groupes prête  
 - 🛠️ Environnement prêt pour intégrer des clients Windows
+![images](https://github.com/user-attachments/assets/58d0036c-d6ee-4680-aeda-7d967cba72f4)
 
 ---
 
@@ -42,9 +46,6 @@ Il inclut la gestion de DNS, création de domaine fonctionnel et gestion des uti
 6. 👥 Créer utilisateurs et groupes selon le plan du labo  
 7. ✅ Tester la connectivité et authentification des clients  
 
-> Les captures d’écran et diagrammes sont inclus dans le dossier `assets/` pour référence rapide.
 
----
 
-## 📂 Structure du projet
 
